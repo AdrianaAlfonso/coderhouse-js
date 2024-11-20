@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+#materialRatios {
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.results h3 {
+  color: #5d6975;
+}
+
+.results p {
+  font-size: 1.1rem;
+  margin: 5px 0;
+}
