@@ -4,6 +4,8 @@ body {
 }
 
 h1 {
+  font-weight: 800;
+  text-transform: uppercase;
   font-size: 2rem;
   color: #333;
 }
@@ -13,6 +15,14 @@ h1 {
   color: #6c757d;
 }
 
+.results {
+  background-color: #e2e2e2;
+  padding: 10px;
+  border-radius: 0.5em;
+  margin-top: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 .results h3 {
   color: #5d6975;
 }
@@ -20,4 +30,8 @@ h1 {
 .results p {
   font-size: 1.1rem;
   margin: 5px 0;
+}
+
+.capitalize {
+  text-transform: capitalize;
 }
